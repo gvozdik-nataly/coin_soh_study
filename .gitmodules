@@ -1,0 +1,9 @@
+[submodule "ML-models/BatteryML"]
+	path = ML-models/BatteryML
+	url = https://github.com/microsoft/BatteryML
+[submodule "ML-models/PINN4SOH"]
+	path = ML-models/PINN4SOH
+	url = https://github.com/wang-fujin/PINN4SOH
+[submodule "ML-models/Xiu-RUL"]
+	path = ML-models/Xiu-RUL
+	url = https://github.com/XiuzeZhou/RUL
